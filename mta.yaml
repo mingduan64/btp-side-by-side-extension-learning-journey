@@ -1,4 +1,3 @@
----
 _schema-version: '3.1'
 ID: risk-management
 version: 2.0.0
@@ -9,7 +8,7 @@ build-parameters:
   before-all:
     - builder: custom
       commands:
-        - npm ci
+        - npm ci --production
         - npx -p @sap/cds-dk cds build --production
 
 modules:
@@ -25,8 +24,10 @@ modules:
         properties:
           srv-url: ${default-url}
     requires:
-      - name: risk-management-db
       - name: risk-management-uaa
+      - name: risk-management-db
+      - name: risk-management-destination-service
+      
 
   - name: risk-management-db-deployer
     type: hdb
@@ -34,6 +35,7 @@ modules:
     parameters:
       buildpack: nodejs_buildpack
     requires:
+      - name: risk-management-uaa
       - name: risk-management-db
 
   - name: risk-management
@@ -41,8 +43,8 @@ modules:
     path: app/ # from cds.env.folders. Consider also cds.env.build.target --> gen/app
     parameters:
       keep-existing-routes: true
-      disk-quota: 256M
-      memory: 256M
+      disk-quota: 1024MB
+      memory: 1024MB
       # hosts: # additional tenant specific hostnames (only for Canary)
       ## the developer will do this via an extension descriptor:
       # - <paas-subdomain >${tenant-delimiter}${host}
@@ -65,7 +67,19 @@ resources:
       service-plan: hdi-shared
     properties:
       hdi-service-name: ${service-name}
-
+  # - name: risk-management-auth
+  #   type: org.cloudfoundry.managed-service
+  #   parameters:
+  #     service: xsuaa
+  #     service-plan: application
+  #     path: ./xs-security.json
+  #     config:
+  #       xsappname: risk-management-${org}-${space}
+  #       tenant-mode: dedicated
+  #       oauth2-configuration:
+  #         # <-- add this
+  #         redirect-uris:
+  #           - https://*.us10-001.hana.ondemand.com/login/callback
   - name: risk-management-uaa
     type: org.cloudfoundry.managed-service
     parameters:
@@ -76,11 +90,17 @@ resources:
         xsappname: risk-management-${org}-${space}
         tenant-mode: dedicated
         role-collections:
-        - name: 'RiskManager-${space}'
-          description: Manage Risks
-          role-template-references:
-          - $XSAPPNAME.RiskManager
-        - name: 'RiskViewer-${space}'
-          description: View Risks
-          role-template-references:
-          - $XSAPPNAME.RiskViewer
+          - name: 'RiskManager-${space}'
+            description: Manage Risks
+            role-template-references:
+              - $XSAPPNAME.RiskManager
+          - name: 'RiskViewer-${space}'
+            description: View Risks
+            role-template-references:
+              - $XSAPPNAME.RiskViewer
+  - name: risk-management-destination-service
+# ------------------------------------------------------------
+    type: org.cloudfoundry.managed-service
+    parameters:
+      service: destination
+      service-plan: lite
