@@ -34,7 +34,7 @@ this.on("READ", BusinessPartners, async (req) => {
   // The API Sandbox returns alot of business partners with empty names.
   // We don't want them in our application
   req.query.where("LastName <> '' and FirstName <> '' ");
-
+  req.query.SELECT.count = false;
   return await BPsrv.transaction(req).send({
     query: req.query,
     headers: {
