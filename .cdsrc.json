@@ -1,5 +1,10 @@
 
 {
+  "fiori": {
+    "preview": {
+      "enabled": true
+    }
+  },
     "[development]": {
       "auth": {
        "passport": {

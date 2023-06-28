@@ -1,5 +1,8 @@
 using riskmanagement as rm from '../db/schema';
+using { Currency } from '../db/common';
+annotate cds.UUID with @Core.Computed  @odata.Type : 'Edm.String';
 
+annotate Currency with @Common.UnitSpecificScale : 'Decimals';
  // Annotate Risk elements
  annotate rm.Risks with {
    ID @title : 'Risk';
@@ -82,4 +85,5 @@ annotate rm.Risks with {
      }
   })
 //### END OF INSERT 
+// Workarounds for overly strict OData libs and clients
 }
