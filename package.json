@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@sap/generator-fiori": "^1.10.0",
+    "@sapui5/sap.ui.generic.template": "^1.115.0"
+  }
+}

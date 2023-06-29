@@ -1,0 +1,125 @@
+<?xml version="1.0" ?>
+<edmx:Edmx
+xmlns:edmx="http://schemas.microsoft.com/ado/2007/06/edmx" Version="1.0"
+xmlns:sap="http://www.sap.com/Protocols/SAPData"
+xmlns:ux="http://www.sap.com/Protocols/OData4SAP/UX"
+xmlns:gp="http://www.sap.com/Protocols/SAPData/GenericPlayer">
+<edmx:DataServices m:DataServiceVersion="2.0"
+xmlns:m="http://schemas.microsoft.com/ado/2007/08/dataservices/metadata">
+<Schema Namespace="businessPartnerNetwork.PublicApiBusinessPartnerService"
+xmlns="http://schemas.microsoft.com/ado/2008/09/edm">
+<EntityType Name="Companies">
+    <Key>
+        <PropertyRef Name="businessPartnerId">
+        </PropertyRef>
+    </Key>
+    <Property Name="businessPartnerId" Type="Edm.String" Nullable="false" MaxLength="36">
+    </Property>
+    <Property Name="name1" Type="Edm.String" MaxLength="225">
+    </Property>
+    <Property Name="name2" Type="Edm.String" MaxLength="225">
+    </Property>
+    <Property Name="name3" Type="Edm.String" MaxLength="225">
+    </Property>
+    <Property Name="name4" Type="Edm.String" MaxLength="225">
+    </Property>
+    <Property Name="emailAddress" Type="Edm.String" MaxLength="241">
+    </Property>
+    <Property Name="phoneNumber" Type="Edm.String" MaxLength="30">
+    </Property>
+    <Property Name="cellPhoneNumber" Type="Edm.String" MaxLength="30">
+    </Property>
+    <Property Name="faxNumber" Type="Edm.String" MaxLength="30">
+    </Property>
+    <Property Name="country" Type="Edm.String" MaxLength="40">
+    </Property>
+    <Property Name="region" Type="Edm.String" MaxLength="40">
+    </Property>
+    <Property Name="cityName" Type="Edm.String" MaxLength="40">
+    </Property>
+    <Property Name="postalCode" Type="Edm.String" MaxLength="40">
+    </Property>
+    <Property Name="streetName" Type="Edm.String" MaxLength="128">
+    </Property>
+    <NavigationProperty Name="toUsers" Relationship="businessPartnerNetwork.PublicApiBusinessPartnerService.Companies_toUsers" FromRole="Companies" ToRole="Users">
+    </NavigationProperty>
+</EntityType>
+<EntityType Name="Users">
+    <Key>
+        <PropertyRef Name="businessPartnerId">
+        </PropertyRef>
+    </Key>
+    <Property Name="businessPartnerId" Type="Edm.String" Nullable="false" MaxLength="36">
+    </Property>
+    <Property Name="businessPartnerParentId" Type="Edm.String" MaxLength="36">
+    </Property>
+    <Property Name="firstName" Type="Edm.String" MaxLength="225">
+    </Property>
+    <Property Name="middleName" Type="Edm.String" MaxLength="225">
+    </Property>
+    <Property Name="lastName" Type="Edm.String" MaxLength="225">
+    </Property>
+    <Property Name="emailAddress" Type="Edm.String" MaxLength="241">
+    </Property>
+    <Property Name="phoneNumber" Type="Edm.String" MaxLength="30">
+    </Property>
+    <Property Name="cellPhoneNumber" Type="Edm.String" MaxLength="30">
+    </Property>
+    <Property Name="faxNumber" Type="Edm.String" MaxLength="30">
+    </Property>
+    <Property Name="country" Type="Edm.String" MaxLength="40">
+    </Property>
+    <Property Name="region" Type="Edm.String" MaxLength="40">
+    </Property>
+    <Property Name="cityName" Type="Edm.String" MaxLength="40">
+    </Property>
+    <Property Name="postalCode" Type="Edm.String" MaxLength="40">
+    </Property>
+    <Property Name="streetName" Type="Edm.String" MaxLength="128">
+    </Property>
+    <NavigationProperty Name="toCompany" Relationship="businessPartnerNetwork.PublicApiBusinessPartnerService.Users_toCompany" FromRole="Users" ToRole="Companies">
+    </NavigationProperty>
+</EntityType>
+<Association Name="Companies_toUsers">
+    <End Type="businessPartnerNetwork.PublicApiBusinessPartnerService.Companies" Multiplicity="*" Role="Companies">
+    </End>
+    <End Type="businessPartnerNetwork.PublicApiBusinessPartnerService.Users" Multiplicity="*" Role="Users">
+    </End>
+</Association>
+<Association Name="Users_toCompany">
+    <End Type="businessPartnerNetwork.PublicApiBusinessPartnerService.Users" Multiplicity="*" Role="Users">
+    </End>
+    <End Type="businessPartnerNetwork.PublicApiBusinessPartnerService.Companies" Multiplicity="0..1" Role="Companies">
+    </End>
+    <ReferentialConstraint>
+        <Principal Role="Companies">
+            <PropertyRef Name="businessPartnerId">
+            </PropertyRef>
+        </Principal>
+        <Dependent Role="Users">
+            <PropertyRef Name="businessPartnerParentId">
+            </PropertyRef>
+        </Dependent>
+    </ReferentialConstraint>
+</Association>
+<EntityContainer Name="EntityContainer" m:IsDefaultEntityContainer="true">
+    <EntitySet Name="Companies" EntityType="businessPartnerNetwork.PublicApiBusinessPartnerService.Companies">
+    </EntitySet>
+    <EntitySet Name="Users" EntityType="businessPartnerNetwork.PublicApiBusinessPartnerService.Users">
+    </EntitySet>
+    <AssociationSet Name="Companies_toUsers" Association="businessPartnerNetwork.PublicApiBusinessPartnerService.Companies_toUsers">
+        <End EntitySet="Companies" Role="Companies">
+        </End>
+        <End EntitySet="Users" Role="Users">
+        </End>
+    </AssociationSet>
+    <AssociationSet Name="Users_toCompany" Association="businessPartnerNetwork.PublicApiBusinessPartnerService.Users_toCompany">
+        <End EntitySet="Users" Role="Users">
+        </End>
+        <End EntitySet="Companies" Role="Companies">
+        </End>
+    </AssociationSet>
+</EntityContainer>
+</Schema>
+</edmx:DataServices>
+</edmx:Edmx>
