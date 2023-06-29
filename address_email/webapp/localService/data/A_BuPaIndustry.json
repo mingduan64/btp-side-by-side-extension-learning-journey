@@ -1,0 +1,142 @@
+[
+    {
+        "IndustrySector": "bXvTjBMMxH",
+        "IndustrySystemType": "KdNW",
+        "BusinessPartner": "ZyVZiYDShT",
+        "IsStandardIndustry": "1",
+        "IndustryKeyDescription": "IndustryKeyDescription1"
+    },
+    {
+        "IndustrySector": "BLDLTsREXD",
+        "IndustrySystemType": "uSie",
+        "BusinessPartner": "eLqqTAfvlP",
+        "IsStandardIndustry": "2",
+        "IndustryKeyDescription": "IndustryKeyDescription2"
+    },
+    {
+        "IndustrySector": "vTidpZNykW",
+        "IndustrySystemType": "ARtP",
+        "BusinessPartner": "fRUVxhDjuc",
+        "IsStandardIndustry": "3",
+        "IndustryKeyDescription": "IndustryKeyDescription3"
+    },
+    {
+        "IndustrySector": "PlJxheqHuL",
+        "IndustrySystemType": "vyiU",
+        "BusinessPartner": "kpKPQuMMjk",
+        "IsStandardIndustry": "4",
+        "IndustryKeyDescription": "IndustryKeyDescription4"
+    },
+    {
+        "IndustrySector": "JClULkKTsu",
+        "IndustrySystemType": "vpmU",
+        "BusinessPartner": "VaAlnZBPLD",
+        "IsStandardIndustry": "5",
+        "IndustryKeyDescription": "IndustryKeyDescription5"
+    },
+    {
+        "IndustrySector": "XCNVNMlsht",
+        "IndustrySystemType": "mjMX",
+        "BusinessPartner": "IDlgUBtDhA",
+        "IsStandardIndustry": "6",
+        "IndustryKeyDescription": "IndustryKeyDescription6"
+    },
+    {
+        "IndustrySector": "UOqcQnvole",
+        "IndustrySystemType": "bGAD",
+        "BusinessPartner": "ACkFFrhpoO",
+        "IsStandardIndustry": "7",
+        "IndustryKeyDescription": "IndustryKeyDescription7"
+    },
+    {
+        "IndustrySector": "xFahDJPRso",
+        "IndustrySystemType": "mqko",
+        "BusinessPartner": "hpoPTyBmCq",
+        "IsStandardIndustry": "8",
+        "IndustryKeyDescription": "IndustryKeyDescription8"
+    },
+    {
+        "IndustrySector": "wpeplPulXl",
+        "IndustrySystemType": "AnbX",
+        "BusinessPartner": "ytofcYMEiR",
+        "IsStandardIndustry": "9",
+        "IndustryKeyDescription": "IndustryKeyDescription9"
+    },
+    {
+        "IndustrySector": "ziklovsZJX",
+        "IndustrySystemType": "VCFD",
+        "BusinessPartner": "gpDQPGmqUX",
+        "IsStandardIndustry": "0",
+        "IndustryKeyDescription": "IndustryKeyDescription10"
+    },
+    {
+        "IndustrySector": "kapBVVltZb",
+        "IndustrySystemType": "YPCz",
+        "BusinessPartner": "kcTUIkfoGZ",
+        "IsStandardIndustry": "1",
+        "IndustryKeyDescription": "IndustryKeyDescription11"
+    },
+    {
+        "IndustrySector": "FSIAJtpVqE",
+        "IndustrySystemType": "zMgI",
+        "BusinessPartner": "BbHzBcoCmZ",
+        "IsStandardIndustry": "2",
+        "IndustryKeyDescription": "IndustryKeyDescription12"
+    },
+    {
+        "IndustrySector": "DeIGxpaTnc",
+        "IndustrySystemType": "cthe",
+        "BusinessPartner": "YxEZyydKkt",
+        "IsStandardIndustry": "3",
+        "IndustryKeyDescription": "IndustryKeyDescription13"
+    },
+    {
+        "IndustrySector": "rgXxHXlukd",
+        "IndustrySystemType": "NoKE",
+        "BusinessPartner": "jhikWLWswm",
+        "IsStandardIndustry": "4",
+        "IndustryKeyDescription": "IndustryKeyDescription14"
+    },
+    {
+        "IndustrySector": "WAkRufrhSV",
+        "IndustrySystemType": "DhMR",
+        "BusinessPartner": "tAAONTzvcZ",
+        "IsStandardIndustry": "5",
+        "IndustryKeyDescription": "IndustryKeyDescription15"
+    },
+    {
+        "IndustrySector": "YiXNezQoxp",
+        "IndustrySystemType": "SYYy",
+        "BusinessPartner": "NXCNMeEZmE",
+        "IsStandardIndustry": "6",
+        "IndustryKeyDescription": "IndustryKeyDescription16"
+    },
+    {
+        "IndustrySector": "WSZptbAreD",
+        "IndustrySystemType": "jsZG",
+        "BusinessPartner": "POIlSjyDeX",
+        "IsStandardIndustry": "7",
+        "IndustryKeyDescription": "IndustryKeyDescription17"
+    },
+    {
+        "IndustrySector": "COsUjkVuuf",
+        "IndustrySystemType": "eBJv",
+        "BusinessPartner": "DLAruxgilA",
+        "IsStandardIndustry": "8",
+        "IndustryKeyDescription": "IndustryKeyDescription18"
+    },
+    {
+        "IndustrySector": "UWZPVXshKw",
+        "IndustrySystemType": "hMSc",
+        "BusinessPartner": "SubkflZVuy",
+        "IsStandardIndustry": "9",
+        "IndustryKeyDescription": "IndustryKeyDescription19"
+    },
+    {
+        "IndustrySector": "PbxQaibhPc",
+        "IndustrySystemType": "cBwZ",
+        "BusinessPartner": "IwwerjMQmb",
+        "IsStandardIndustry": "0",
+        "IndustryKeyDescription": "IndustryKeyDescription20"
+    }
+]

@@ -1,0 +1,182 @@
+[
+    {
+        "RelationshipNumber": "rpxSGIEreuKd",
+        "BusinessPartnerCompany": "fRjUkKlxzg",
+        "BusinessPartnerPerson": "FhdDMArMKZ",
+        "ValidityEndDate": "/Date(1043223387000)/",
+        "ValidityStartDate": "/Date(438065985000)/",
+        "IsStandardRelationship": true,
+        "RelationshipCategory": "Relat1"
+    },
+    {
+        "RelationshipNumber": "cQTIpHQWBLFf",
+        "BusinessPartnerCompany": "vhXevyKhHg",
+        "BusinessPartnerPerson": "rKGqrtcssm",
+        "ValidityEndDate": "/Date(861905236000)/",
+        "ValidityStartDate": "/Date(328885027000)/",
+        "IsStandardRelationship": true,
+        "RelationshipCategory": "Relat2"
+    },
+    {
+        "RelationshipNumber": "cHFOhmrZUyZL",
+        "BusinessPartnerCompany": "hwgcgmUAgH",
+        "BusinessPartnerPerson": "opYyJwjReM",
+        "ValidityEndDate": "/Date(1292737119000)/",
+        "ValidityStartDate": "/Date(675243705000)/",
+        "IsStandardRelationship": true,
+        "RelationshipCategory": "Relat3"
+    },
+    {
+        "RelationshipNumber": "thwVnUToYJcU",
+        "BusinessPartnerCompany": "DPVvGiLaCI",
+        "BusinessPartnerPerson": "xHCmQDeAla",
+        "ValidityEndDate": "/Date(1159482250000)/",
+        "ValidityStartDate": "/Date(889340592000)/",
+        "IsStandardRelationship": true,
+        "RelationshipCategory": "Relat4"
+    },
+    {
+        "RelationshipNumber": "QUeSeeNcHVVz",
+        "BusinessPartnerCompany": "kWYLKrUVxp",
+        "BusinessPartnerPerson": "ikPLMOxBvw",
+        "ValidityEndDate": "/Date(831500013000)/",
+        "ValidityStartDate": "/Date(1305817881000)/",
+        "IsStandardRelationship": false,
+        "RelationshipCategory": "Relat5"
+    },
+    {
+        "RelationshipNumber": "SsDqyJFCeDlv",
+        "BusinessPartnerCompany": "pmbPDOZQbD",
+        "BusinessPartnerPerson": "XxPRCpCTUW",
+        "ValidityEndDate": "/Date(977735549000)/",
+        "ValidityStartDate": "/Date(139659576000)/",
+        "IsStandardRelationship": true,
+        "RelationshipCategory": "Relat6"
+    },
+    {
+        "RelationshipNumber": "ICqDVjyxblnI",
+        "BusinessPartnerCompany": "voydsZzplg",
+        "BusinessPartnerPerson": "wUWIIGOmNk",
+        "ValidityEndDate": "/Date(884828796000)/",
+        "ValidityStartDate": "/Date(813518163000)/",
+        "IsStandardRelationship": true,
+        "RelationshipCategory": "Relat7"
+    },
+    {
+        "RelationshipNumber": "oJcGFKFzohxc",
+        "BusinessPartnerCompany": "hwyuiqLyPT",
+        "BusinessPartnerPerson": "bRfICTJqsd",
+        "ValidityEndDate": "/Date(126154436000)/",
+        "ValidityStartDate": "/Date(1092175074000)/",
+        "IsStandardRelationship": true,
+        "RelationshipCategory": "Relat8"
+    },
+    {
+        "RelationshipNumber": "ccBqMlJgkrfh",
+        "BusinessPartnerCompany": "cANVizlwdv",
+        "BusinessPartnerPerson": "wbGnQgdqPi",
+        "ValidityEndDate": "/Date(1197408398000)/",
+        "ValidityStartDate": "/Date(646878321000)/",
+        "IsStandardRelationship": false,
+        "RelationshipCategory": "Relat9"
+    },
+    {
+        "RelationshipNumber": "YbsjoMnPGXob",
+        "BusinessPartnerCompany": "UJxmUOGzxy",
+        "BusinessPartnerPerson": "apjSuQqTDE",
+        "ValidityEndDate": "/Date(377241332000)/",
+        "ValidityStartDate": "/Date(539170524000)/",
+        "IsStandardRelationship": false,
+        "RelationshipCategory": "Rela10"
+    },
+    {
+        "RelationshipNumber": "gMLTmTGIBJdI",
+        "BusinessPartnerCompany": "VfYMowLJGq",
+        "BusinessPartnerPerson": "AxLFmsgSQY",
+        "ValidityEndDate": "/Date(916921413000)/",
+        "ValidityStartDate": "/Date(307197424000)/",
+        "IsStandardRelationship": false,
+        "RelationshipCategory": "Rela11"
+    },
+    {
+        "RelationshipNumber": "EDCaEekcwkFZ",
+        "BusinessPartnerCompany": "fKJHofGHmB",
+        "BusinessPartnerPerson": "eqezTlmNeu",
+        "ValidityEndDate": "/Date(164705784000)/",
+        "ValidityStartDate": "/Date(122920245000)/",
+        "IsStandardRelationship": false,
+        "RelationshipCategory": "Rela12"
+    },
+    {
+        "RelationshipNumber": "HZLBBhTrzoQr",
+        "BusinessPartnerCompany": "neYCDWGRjU",
+        "BusinessPartnerPerson": "kVbkXwWHyV",
+        "ValidityEndDate": "/Date(1452952143000)/",
+        "ValidityStartDate": "/Date(1329880991000)/",
+        "IsStandardRelationship": false,
+        "RelationshipCategory": "Rela13"
+    },
+    {
+        "RelationshipNumber": "bDIwpmbSYpji",
+        "BusinessPartnerCompany": "fuRoVvlAhe",
+        "BusinessPartnerPerson": "dJbiqUgiYJ",
+        "ValidityEndDate": "/Date(869344753000)/",
+        "ValidityStartDate": "/Date(1040817009000)/",
+        "IsStandardRelationship": true,
+        "RelationshipCategory": "Rela14"
+    },
+    {
+        "RelationshipNumber": "ISuYRykfubvD",
+        "BusinessPartnerCompany": "dsjwAkAOAS",
+        "BusinessPartnerPerson": "fSAUFhoPHO",
+        "ValidityEndDate": "/Date(610521966000)/",
+        "ValidityStartDate": "/Date(189571433000)/",
+        "IsStandardRelationship": false,
+        "RelationshipCategory": "Rela15"
+    },
+    {
+        "RelationshipNumber": "rFhzvfFxHuyA",
+        "BusinessPartnerCompany": "NMvCdrbqtp",
+        "BusinessPartnerPerson": "hWQerZZDnU",
+        "ValidityEndDate": "/Date(1241909368000)/",
+        "ValidityStartDate": "/Date(296319799000)/",
+        "IsStandardRelationship": true,
+        "RelationshipCategory": "Rela16"
+    },
+    {
+        "RelationshipNumber": "qCTQmmQMQNHV",
+        "BusinessPartnerCompany": "ibKvQnGVko",
+        "BusinessPartnerPerson": "vDAkileWWy",
+        "ValidityEndDate": "/Date(359697305000)/",
+        "ValidityStartDate": "/Date(786010388000)/",
+        "IsStandardRelationship": false,
+        "RelationshipCategory": "Rela17"
+    },
+    {
+        "RelationshipNumber": "xrScULxSfMbW",
+        "BusinessPartnerCompany": "rmoDQYlAdD",
+        "BusinessPartnerPerson": "fOoVpNcdUu",
+        "ValidityEndDate": "/Date(172050821000)/",
+        "ValidityStartDate": "/Date(132833083000)/",
+        "IsStandardRelationship": true,
+        "RelationshipCategory": "Rela18"
+    },
+    {
+        "RelationshipNumber": "FTKwhEEogAtq",
+        "BusinessPartnerCompany": "GwiHQPNdsp",
+        "BusinessPartnerPerson": "kjbYYtpdxH",
+        "ValidityEndDate": "/Date(1392723738000)/",
+        "ValidityStartDate": "/Date(332442647000)/",
+        "IsStandardRelationship": true,
+        "RelationshipCategory": "Rela19"
+    },
+    {
+        "RelationshipNumber": "jKErjgtbmGuN",
+        "BusinessPartnerCompany": "sxMjuRvVqP",
+        "BusinessPartnerPerson": "MqRvtBtXSV",
+        "ValidityEndDate": "/Date(1318989456000)/",
+        "ValidityStartDate": "/Date(1147552563000)/",
+        "IsStandardRelationship": true,
+        "RelationshipCategory": "Rela20"
+    }
+]

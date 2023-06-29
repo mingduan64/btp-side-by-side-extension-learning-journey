@@ -1,0 +1,162 @@
+[
+    {
+        "carrid": "fO",
+        "connid": "hmrY",
+        "fldate": "/Date(618304868000)/",
+        "fltime": "PT17H31M43S",
+        "city_from": "city_from1",
+        "city_to": "city_to1"
+    },
+    {
+        "carrid": "gD",
+        "connid": "nMUx",
+        "fldate": "/Date(902639894000)/",
+        "fltime": "PT15H45M30S",
+        "city_from": "city_from2",
+        "city_to": "city_to2"
+    },
+    {
+        "carrid": "FN",
+        "connid": "vfeV",
+        "fldate": "/Date(594449233000)/",
+        "fltime": "PT15H22M04S",
+        "city_from": "city_from3",
+        "city_to": "city_to3"
+    },
+    {
+        "carrid": "bj",
+        "connid": "xJnq",
+        "fldate": "/Date(1296867226000)/",
+        "fltime": "PT00H22M49S",
+        "city_from": "city_from4",
+        "city_to": "city_to4"
+    },
+    {
+        "carrid": "Ej",
+        "connid": "ihGd",
+        "fldate": "/Date(379693721000)/",
+        "fltime": "PT18H55M57S",
+        "city_from": "city_from5",
+        "city_to": "city_to5"
+    },
+    {
+        "carrid": "Ye",
+        "connid": "cpsd",
+        "fldate": "/Date(1034482875000)/",
+        "fltime": "PT00H42M46S",
+        "city_from": "city_from6",
+        "city_to": "city_to6"
+    },
+    {
+        "carrid": "TV",
+        "connid": "AFKr",
+        "fldate": "/Date(1180176314000)/",
+        "fltime": "PT02H01M02S",
+        "city_from": "city_from7",
+        "city_to": "city_to7"
+    },
+    {
+        "carrid": "Xy",
+        "connid": "wIcL",
+        "fldate": "/Date(1095345081000)/",
+        "fltime": "PT02H30M42S",
+        "city_from": "city_from8",
+        "city_to": "city_to8"
+    },
+    {
+        "carrid": "vg",
+        "connid": "hIzB",
+        "fldate": "/Date(1075090580000)/",
+        "fltime": "PT10H38M22S",
+        "city_from": "city_from9",
+        "city_to": "city_to9"
+    },
+    {
+        "carrid": "CM",
+        "connid": "OsiR",
+        "fldate": "/Date(252435708000)/",
+        "fltime": "PT03H15M22S",
+        "city_from": "city_from10",
+        "city_to": "city_to10"
+    },
+    {
+        "carrid": "iA",
+        "connid": "xkMT",
+        "fldate": "/Date(1189091553000)/",
+        "fltime": "PT08H48M47S",
+        "city_from": "city_from11",
+        "city_to": "city_to11"
+    },
+    {
+        "carrid": "tv",
+        "connid": "muTN",
+        "fldate": "/Date(715703946000)/",
+        "fltime": "PT06H41M17S",
+        "city_from": "city_from12",
+        "city_to": "city_to12"
+    },
+    {
+        "carrid": "dM",
+        "connid": "VTNk",
+        "fldate": "/Date(935126260000)/",
+        "fltime": "PT23H53M44S",
+        "city_from": "city_from13",
+        "city_to": "city_to13"
+    },
+    {
+        "carrid": "yy",
+        "connid": "vOmD",
+        "fldate": "/Date(1121924877000)/",
+        "fltime": "PT11H22M22S",
+        "city_from": "city_from14",
+        "city_to": "city_to14"
+    },
+    {
+        "carrid": "VN",
+        "connid": "cnfU",
+        "fldate": "/Date(492773587000)/",
+        "fltime": "PT05H03M45S",
+        "city_from": "city_from15",
+        "city_to": "city_to15"
+    },
+    {
+        "carrid": "lf",
+        "connid": "GlDR",
+        "fldate": "/Date(1109826836000)/",
+        "fltime": "PT05H30M23S",
+        "city_from": "city_from16",
+        "city_to": "city_to16"
+    },
+    {
+        "carrid": "tw",
+        "connid": "Fqms",
+        "fldate": "/Date(1339974012000)/",
+        "fltime": "PT04H34M05S",
+        "city_from": "city_from17",
+        "city_to": "city_to17"
+    },
+    {
+        "carrid": "WB",
+        "connid": "cizu",
+        "fldate": "/Date(181458370000)/",
+        "fltime": "PT06H17M30S",
+        "city_from": "city_from18",
+        "city_to": "city_to18"
+    },
+    {
+        "carrid": "AV",
+        "connid": "nzxl",
+        "fldate": "/Date(1314458485000)/",
+        "fltime": "PT14H41M12S",
+        "city_from": "city_from19",
+        "city_to": "city_to19"
+    },
+    {
+        "carrid": "Wt",
+        "connid": "ElAz",
+        "fldate": "/Date(1233326481000)/",
+        "fltime": "PT18H24M20S",
+        "city_from": "city_from20",
+        "city_to": "city_to20"
+    }
+]

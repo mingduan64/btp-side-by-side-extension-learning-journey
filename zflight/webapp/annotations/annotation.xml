@@ -1,0 +1,57 @@
+<edmx:Edmx xmlns:edmx="http://docs.oasis-open.org/odata/ns/edmx" Version="4.0">
+    <edmx:Reference Uri="https://sap.github.io/odata-vocabularies/vocabularies/UI.xml">
+        <edmx:Include Namespace="com.sap.vocabularies.UI.v1" Alias="UI"/>
+    </edmx:Reference>
+    <edmx:Reference Uri="/sap/opu/odata/sap/ZFLIGHTBINDING/$metadata">
+        <edmx:Include Namespace="cds_zflightservice"/>
+    </edmx:Reference>
+    <edmx:DataServices>
+        <Schema xmlns="http://docs.oasis-open.org/odata/ns/edm" Namespace="com.ovp">
+            <Annotations Target="cds_zflightservice.ZLHflightsType">
+                <Annotation Term="UI.DataPoint" Qualifier="point1">
+                    <Record Type="UI.DataPointType">
+                        <PropertyValue Property="Value" Path="city_from"/>
+                    </Record>
+                </Annotation>
+            </Annotations>
+            <Annotations Target="cds_zflightservice.SAP__UnitOfMeasure">
+                <Annotation Term="UI.Chart" Qualifier="chart1">
+                    <Record Type="UI.ChartDefinitionType">
+                        <PropertyValue Property="Title" String="chart 1"/>
+                        <PropertyValue Property="MeasureAttributes">
+                            <Collection>
+                                <Record Type="UI.ChartMeasureAttributeType">
+                                    <PropertyValue Property="Measure" PropertyPath="DecimalPlaces"/>
+                                    <PropertyValue Property="Role" EnumMember="UI.ChartMeasureRoleType/Axis1"/>
+                                </Record>
+                            </Collection>
+                        </PropertyValue>
+                        <PropertyValue Property="DimensionAttributes">
+                            <Collection>
+                                <Record Type="UI.ChartDimensionAttributeType">
+                                    <PropertyValue Property="Dimension" PropertyPath="DecimalPlaces"/>
+                                    <PropertyValue Property="Role" EnumMember="UI.ChartDimensionRoleType/Category"/>
+                                </Record>
+                            </Collection>
+                        </PropertyValue>
+                        <PropertyValue Property="ChartType" EnumMember="UI.ChartType/Column"/>
+                        <PropertyValue Property="Description" String="col"/>
+                    </Record>
+                </Annotation>
+                <Annotation Term="UI.DataPoint" Qualifier="pointchart">
+                    <Record Type="UI.DataPointType">
+                        <PropertyValue Property="Value" Path="DecimalPlaces"/>
+                    </Record>
+                </Annotation>
+                <Annotation Term="UI.Identification" Qualifier="pointchart2">
+                    <Collection>
+                        <Record Type="UI.DataField">
+                            <PropertyValue Property="Value" Path="DecimalPlaces"/>
+                        </Record>
+                    </Collection>
+                </Annotation>
+            </Annotations>
+      
+        </Schema>
+    </edmx:DataServices>
+</edmx:Edmx>

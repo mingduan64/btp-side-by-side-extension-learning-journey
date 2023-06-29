@@ -1,0 +1,142 @@
+[
+    {
+        "BusinessPartner": "tyIKsYoxPV",
+        "BusinessPartnerRole": "moYheR",
+        "ValidFrom": "/Date(1431619042000)/",
+        "ValidTo": "/Date(782226757000)/",
+        "AuthorizationGroup": "Aut1"
+    },
+    {
+        "BusinessPartner": "QnlhbWBfHk",
+        "BusinessPartnerRole": "OnjMQg",
+        "ValidFrom": "/Date(817901216000)/",
+        "ValidTo": "/Date(367663962000)/",
+        "AuthorizationGroup": "Aut2"
+    },
+    {
+        "BusinessPartner": "NcdbQyNOHq",
+        "BusinessPartnerRole": "NhatZH",
+        "ValidFrom": "/Date(706120397000)/",
+        "ValidTo": "/Date(1398394420000)/",
+        "AuthorizationGroup": "Aut3"
+    },
+    {
+        "BusinessPartner": "vYWSfjwrfl",
+        "BusinessPartnerRole": "lWQuNl",
+        "ValidFrom": "/Date(983403223000)/",
+        "ValidTo": "/Date(1418051329000)/",
+        "AuthorizationGroup": "Aut4"
+    },
+    {
+        "BusinessPartner": "ZWeqaMTBXC",
+        "BusinessPartnerRole": "pKShrH",
+        "ValidFrom": "/Date(188079257000)/",
+        "ValidTo": "/Date(784067029000)/",
+        "AuthorizationGroup": "Aut5"
+    },
+    {
+        "BusinessPartner": "HbIrDFXBTY",
+        "BusinessPartnerRole": "IjPZQA",
+        "ValidFrom": "/Date(289878301000)/",
+        "ValidTo": "/Date(575730601000)/",
+        "AuthorizationGroup": "Aut6"
+    },
+    {
+        "BusinessPartner": "ttWGzvqneG",
+        "BusinessPartnerRole": "LdoqDr",
+        "ValidFrom": "/Date(1115134290000)/",
+        "ValidTo": "/Date(677215486000)/",
+        "AuthorizationGroup": "Aut7"
+    },
+    {
+        "BusinessPartner": "EquxIvXjcK",
+        "BusinessPartnerRole": "DApaTN",
+        "ValidFrom": "/Date(1279148088000)/",
+        "ValidTo": "/Date(1121395812000)/",
+        "AuthorizationGroup": "Aut8"
+    },
+    {
+        "BusinessPartner": "OhGeFeEqol",
+        "BusinessPartnerRole": "ZsBOJO",
+        "ValidFrom": "/Date(1223962569000)/",
+        "ValidTo": "/Date(844000680000)/",
+        "AuthorizationGroup": "Aut9"
+    },
+    {
+        "BusinessPartner": "gyzyWfpXMT",
+        "BusinessPartnerRole": "iQDfYo",
+        "ValidFrom": "/Date(164694379000)/",
+        "ValidTo": "/Date(221277982000)/",
+        "AuthorizationGroup": "Au10"
+    },
+    {
+        "BusinessPartner": "SkBVYojGTF",
+        "BusinessPartnerRole": "Gejilg",
+        "ValidFrom": "/Date(694339605000)/",
+        "ValidTo": "/Date(510162552000)/",
+        "AuthorizationGroup": "Au11"
+    },
+    {
+        "BusinessPartner": "TdsAOxwtAQ",
+        "BusinessPartnerRole": "CrNLpB",
+        "ValidFrom": "/Date(1189540602000)/",
+        "ValidTo": "/Date(930337338000)/",
+        "AuthorizationGroup": "Au12"
+    },
+    {
+        "BusinessPartner": "JWckmjtGlk",
+        "BusinessPartnerRole": "LUyqOf",
+        "ValidFrom": "/Date(952219081000)/",
+        "ValidTo": "/Date(1277661159000)/",
+        "AuthorizationGroup": "Au13"
+    },
+    {
+        "BusinessPartner": "fIeEFiUjWc",
+        "BusinessPartnerRole": "pyLzrT",
+        "ValidFrom": "/Date(1444929142000)/",
+        "ValidTo": "/Date(257220471000)/",
+        "AuthorizationGroup": "Au14"
+    },
+    {
+        "BusinessPartner": "aReGfdDdZi",
+        "BusinessPartnerRole": "mfUUsc",
+        "ValidFrom": "/Date(1004785885000)/",
+        "ValidTo": "/Date(19959734000)/",
+        "AuthorizationGroup": "Au15"
+    },
+    {
+        "BusinessPartner": "zhreGdRPyf",
+        "BusinessPartnerRole": "gTRFuG",
+        "ValidFrom": "/Date(636585000)/",
+        "ValidTo": "/Date(1346783516000)/",
+        "AuthorizationGroup": "Au16"
+    },
+    {
+        "BusinessPartner": "kCtAhhwKox",
+        "BusinessPartnerRole": "ySIqly",
+        "ValidFrom": "/Date(609218475000)/",
+        "ValidTo": "/Date(253382451000)/",
+        "AuthorizationGroup": "Au17"
+    },
+    {
+        "BusinessPartner": "rSwfVJIoDS",
+        "BusinessPartnerRole": "mgPqlr",
+        "ValidFrom": "/Date(192684962000)/",
+        "ValidTo": "/Date(1062270330000)/",
+        "AuthorizationGroup": "Au18"
+    },
+    {
+        "BusinessPartner": "czvHllrusU",
+        "BusinessPartnerRole": "PmgWuI",
+        "ValidFrom": "/Date(859301454000)/",
+        "ValidTo": "/Date(911232554000)/",
+        "AuthorizationGroup": "Au19"
+    },
+    {
+        "BusinessPartner": "zWxTIscPoW",
+        "BusinessPartnerRole": "qBsKzf",
+        "ValidFrom": "/Date(402335218000)/",
+        "ValidTo": "/Date(1025446964000)/",
+        "AuthorizationGroup": "Au20"
+    }
+]

@@ -1,0 +1,162 @@
+[
+    {
+        "BusinessPartner": "epkwNYCkYr",
+        "AddressID": "UfEChYaoqf",
+        "BPTaxType": "KNHs",
+        "BPTaxNumber": "BPTaxNumber1",
+        "BPTaxLongNumber": "BPTaxLongNumber1",
+        "AuthorizationGroup": "Aut1"
+    },
+    {
+        "BusinessPartner": "HpwfQwpFNw",
+        "AddressID": "wjDLVjUYnR",
+        "BPTaxType": "iXcz",
+        "BPTaxNumber": "BPTaxNumber2",
+        "BPTaxLongNumber": "BPTaxLongNumber2",
+        "AuthorizationGroup": "Aut2"
+    },
+    {
+        "BusinessPartner": "fGSaLfAYOB",
+        "AddressID": "CinzMVUWna",
+        "BPTaxType": "mzOz",
+        "BPTaxNumber": "BPTaxNumber3",
+        "BPTaxLongNumber": "BPTaxLongNumber3",
+        "AuthorizationGroup": "Aut3"
+    },
+    {
+        "BusinessPartner": "uqQwLrjMMQ",
+        "AddressID": "qhRabCPeHi",
+        "BPTaxType": "Marg",
+        "BPTaxNumber": "BPTaxNumber4",
+        "BPTaxLongNumber": "BPTaxLongNumber4",
+        "AuthorizationGroup": "Aut4"
+    },
+    {
+        "BusinessPartner": "ugBGUWqSFS",
+        "AddressID": "EFWeNsVMpq",
+        "BPTaxType": "LxqH",
+        "BPTaxNumber": "BPTaxNumber5",
+        "BPTaxLongNumber": "BPTaxLongNumber5",
+        "AuthorizationGroup": "Aut5"
+    },
+    {
+        "BusinessPartner": "wPixJvGsxm",
+        "AddressID": "PQiXcfCXIt",
+        "BPTaxType": "eKJr",
+        "BPTaxNumber": "BPTaxNumber6",
+        "BPTaxLongNumber": "BPTaxLongNumber6",
+        "AuthorizationGroup": "Aut6"
+    },
+    {
+        "BusinessPartner": "qalCtqEWGx",
+        "AddressID": "ayjchpvTMx",
+        "BPTaxType": "QGLP",
+        "BPTaxNumber": "BPTaxNumber7",
+        "BPTaxLongNumber": "BPTaxLongNumber7",
+        "AuthorizationGroup": "Aut7"
+    },
+    {
+        "BusinessPartner": "KWykMYDPeE",
+        "AddressID": "DUkFvdufgi",
+        "BPTaxType": "Qhgk",
+        "BPTaxNumber": "BPTaxNumber8",
+        "BPTaxLongNumber": "BPTaxLongNumber8",
+        "AuthorizationGroup": "Aut8"
+    },
+    {
+        "BusinessPartner": "mydivMstZc",
+        "AddressID": "kHcfLuxJgu",
+        "BPTaxType": "Smeb",
+        "BPTaxNumber": "BPTaxNumber9",
+        "BPTaxLongNumber": "BPTaxLongNumber9",
+        "AuthorizationGroup": "Aut9"
+    },
+    {
+        "BusinessPartner": "AYQyyKuIFJ",
+        "AddressID": "sHqKuPZzii",
+        "BPTaxType": "CmMV",
+        "BPTaxNumber": "BPTaxNumber10",
+        "BPTaxLongNumber": "BPTaxLongNumber10",
+        "AuthorizationGroup": "Au10"
+    },
+    {
+        "BusinessPartner": "hsRxGUjbAm",
+        "AddressID": "aCcLypJQCP",
+        "BPTaxType": "QbCO",
+        "BPTaxNumber": "BPTaxNumber11",
+        "BPTaxLongNumber": "BPTaxLongNumber11",
+        "AuthorizationGroup": "Au11"
+    },
+    {
+        "BusinessPartner": "sSHRZMpCxm",
+        "AddressID": "sRHtRwVghr",
+        "BPTaxType": "Vebu",
+        "BPTaxNumber": "BPTaxNumber12",
+        "BPTaxLongNumber": "BPTaxLongNumber12",
+        "AuthorizationGroup": "Au12"
+    },
+    {
+        "BusinessPartner": "ESAXtYittF",
+        "AddressID": "uPLRJGPbIe",
+        "BPTaxType": "ZiCp",
+        "BPTaxNumber": "BPTaxNumber13",
+        "BPTaxLongNumber": "BPTaxLongNumber13",
+        "AuthorizationGroup": "Au13"
+    },
+    {
+        "BusinessPartner": "XlbVYzdVWa",
+        "AddressID": "eaZFTLwyUy",
+        "BPTaxType": "jGVD",
+        "BPTaxNumber": "BPTaxNumber14",
+        "BPTaxLongNumber": "BPTaxLongNumber14",
+        "AuthorizationGroup": "Au14"
+    },
+    {
+        "BusinessPartner": "qcCJqxtvIP",
+        "AddressID": "LspPlDnuEO",
+        "BPTaxType": "lBYX",
+        "BPTaxNumber": "BPTaxNumber15",
+        "BPTaxLongNumber": "BPTaxLongNumber15",
+        "AuthorizationGroup": "Au15"
+    },
+    {
+        "BusinessPartner": "XnTjBhIkEH",
+        "AddressID": "tDeExMYVBO",
+        "BPTaxType": "VplE",
+        "BPTaxNumber": "BPTaxNumber16",
+        "BPTaxLongNumber": "BPTaxLongNumber16",
+        "AuthorizationGroup": "Au16"
+    },
+    {
+        "BusinessPartner": "uVAuadCLZw",
+        "AddressID": "hgWmHwNzBv",
+        "BPTaxType": "eKXc",
+        "BPTaxNumber": "BPTaxNumber17",
+        "BPTaxLongNumber": "BPTaxLongNumber17",
+        "AuthorizationGroup": "Au17"
+    },
+    {
+        "BusinessPartner": "SglJgfOfsT",
+        "AddressID": "zBxIZToeKt",
+        "BPTaxType": "qWrW",
+        "BPTaxNumber": "BPTaxNumber18",
+        "BPTaxLongNumber": "BPTaxLongNumber18",
+        "AuthorizationGroup": "Au18"
+    },
+    {
+        "BusinessPartner": "DinSfRRyMM",
+        "AddressID": "jONQfqIvcH",
+        "BPTaxType": "tvSN",
+        "BPTaxNumber": "BPTaxNumber19",
+        "BPTaxLongNumber": "BPTaxLongNumber19",
+        "AuthorizationGroup": "Au19"
+    },
+    {
+        "BusinessPartner": "SeAsGIZwnZ",
+        "AddressID": "tALbpDjYUd",
+        "BPTaxType": "MFdj",
+        "BPTaxNumber": "BPTaxNumber20",
+        "BPTaxLongNumber": "BPTaxLongNumber20",
+        "AuthorizationGroup": "Au20"
+    }
+]

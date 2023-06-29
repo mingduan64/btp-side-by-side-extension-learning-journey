@@ -1,0 +1,182 @@
+[
+    {
+        "BusinessPartner": "YiPnYSnwcU",
+        "ValidityEndDate": "/Date(998021505000)/",
+        "AddressUsage": "LxXsWJpmzl",
+        "AddressID": "dLhlcTUyLc",
+        "ValidityStartDate": "/Date(1427893849000)/",
+        "StandardUsage": false,
+        "AuthorizationGroup": "Aut1"
+    },
+    {
+        "BusinessPartner": "WtMUAVeOSd",
+        "ValidityEndDate": "/Date(851454548000)/",
+        "AddressUsage": "CsgnFAVZTn",
+        "AddressID": "hYTEENzuer",
+        "ValidityStartDate": "/Date(34282015000)/",
+        "StandardUsage": false,
+        "AuthorizationGroup": "Aut2"
+    },
+    {
+        "BusinessPartner": "CEQQbwFJFD",
+        "ValidityEndDate": "/Date(82713830000)/",
+        "AddressUsage": "kEbibabqfw",
+        "AddressID": "qIKeMATyhK",
+        "ValidityStartDate": "/Date(1319813481000)/",
+        "StandardUsage": false,
+        "AuthorizationGroup": "Aut3"
+    },
+    {
+        "BusinessPartner": "EahInWVIuA",
+        "ValidityEndDate": "/Date(995112686000)/",
+        "AddressUsage": "duMlqlGxDC",
+        "AddressID": "lhxcGzsVEo",
+        "ValidityStartDate": "/Date(526384716000)/",
+        "StandardUsage": false,
+        "AuthorizationGroup": "Aut4"
+    },
+    {
+        "BusinessPartner": "WAvBzSVMYc",
+        "ValidityEndDate": "/Date(862671656000)/",
+        "AddressUsage": "gGSqPvsLXW",
+        "AddressID": "jHvLLjOyXv",
+        "ValidityStartDate": "/Date(148855385000)/",
+        "StandardUsage": false,
+        "AuthorizationGroup": "Aut5"
+    },
+    {
+        "BusinessPartner": "lTvcmwrmNs",
+        "ValidityEndDate": "/Date(275305172000)/",
+        "AddressUsage": "ZleHsvcKWK",
+        "AddressID": "RTRIglEhkl",
+        "ValidityStartDate": "/Date(807473498000)/",
+        "StandardUsage": true,
+        "AuthorizationGroup": "Aut6"
+    },
+    {
+        "BusinessPartner": "LaSpICpdpk",
+        "ValidityEndDate": "/Date(736045774000)/",
+        "AddressUsage": "TfLLOEHrdr",
+        "AddressID": "zWtyFxCzjA",
+        "ValidityStartDate": "/Date(392978803000)/",
+        "StandardUsage": true,
+        "AuthorizationGroup": "Aut7"
+    },
+    {
+        "BusinessPartner": "JeKZsxsuKK",
+        "ValidityEndDate": "/Date(912102627000)/",
+        "AddressUsage": "aoChSYpGUu",
+        "AddressID": "TYJzuDSgQu",
+        "ValidityStartDate": "/Date(32616628000)/",
+        "StandardUsage": true,
+        "AuthorizationGroup": "Aut8"
+    },
+    {
+        "BusinessPartner": "flLwdxxUzU",
+        "ValidityEndDate": "/Date(1390879277000)/",
+        "AddressUsage": "CSbaFbgcAm",
+        "AddressID": "ZMJfOpwnSM",
+        "ValidityStartDate": "/Date(1120379404000)/",
+        "StandardUsage": true,
+        "AuthorizationGroup": "Aut9"
+    },
+    {
+        "BusinessPartner": "PjYQKeekfh",
+        "ValidityEndDate": "/Date(222070524000)/",
+        "AddressUsage": "hDKQOwnaOU",
+        "AddressID": "qEsOYthkLi",
+        "ValidityStartDate": "/Date(645424768000)/",
+        "StandardUsage": false,
+        "AuthorizationGroup": "Au10"
+    },
+    {
+        "BusinessPartner": "GariZjxgMd",
+        "ValidityEndDate": "/Date(765969929000)/",
+        "AddressUsage": "kztiyInNnN",
+        "AddressID": "reQRxYKGqB",
+        "ValidityStartDate": "/Date(1419545052000)/",
+        "StandardUsage": false,
+        "AuthorizationGroup": "Au11"
+    },
+    {
+        "BusinessPartner": "qmuZmeDHRf",
+        "ValidityEndDate": "/Date(1382462858000)/",
+        "AddressUsage": "ozHIwCJJkW",
+        "AddressID": "BugGGBFOZm",
+        "ValidityStartDate": "/Date(1046958077000)/",
+        "StandardUsage": false,
+        "AuthorizationGroup": "Au12"
+    },
+    {
+        "BusinessPartner": "BEXpmXCWKo",
+        "ValidityEndDate": "/Date(125336556000)/",
+        "AddressUsage": "gwzqzORIQb",
+        "AddressID": "inRScEPyLH",
+        "ValidityStartDate": "/Date(404909537000)/",
+        "StandardUsage": false,
+        "AuthorizationGroup": "Au13"
+    },
+    {
+        "BusinessPartner": "LyXtHZotRK",
+        "ValidityEndDate": "/Date(142778639000)/",
+        "AddressUsage": "VGLMpPjBsv",
+        "AddressID": "wVNqCTSyBO",
+        "ValidityStartDate": "/Date(1260708703000)/",
+        "StandardUsage": true,
+        "AuthorizationGroup": "Au14"
+    },
+    {
+        "BusinessPartner": "wBLcPFEDzi",
+        "ValidityEndDate": "/Date(757879501000)/",
+        "AddressUsage": "DKWijFQcyJ",
+        "AddressID": "DZySzICcOE",
+        "ValidityStartDate": "/Date(239518760000)/",
+        "StandardUsage": true,
+        "AuthorizationGroup": "Au15"
+    },
+    {
+        "BusinessPartner": "QCiLFZbYNB",
+        "ValidityEndDate": "/Date(1142156816000)/",
+        "AddressUsage": "ZCfnpkKVDU",
+        "AddressID": "ykFaEAOwJq",
+        "ValidityStartDate": "/Date(393566008000)/",
+        "StandardUsage": false,
+        "AuthorizationGroup": "Au16"
+    },
+    {
+        "BusinessPartner": "GHcaVlYSyv",
+        "ValidityEndDate": "/Date(1144028490000)/",
+        "AddressUsage": "wAKiTmUgNX",
+        "AddressID": "huCeBlTfFY",
+        "ValidityStartDate": "/Date(1054341395000)/",
+        "StandardUsage": true,
+        "AuthorizationGroup": "Au17"
+    },
+    {
+        "BusinessPartner": "SSwqKMTvvv",
+        "ValidityEndDate": "/Date(610672476000)/",
+        "AddressUsage": "cEgeDdLAeI",
+        "AddressID": "EPftFwqkxd",
+        "ValidityStartDate": "/Date(201442431000)/",
+        "StandardUsage": true,
+        "AuthorizationGroup": "Au18"
+    },
+    {
+        "BusinessPartner": "qJfEwYCRxw",
+        "ValidityEndDate": "/Date(896143978000)/",
+        "AddressUsage": "aehVRasSId",
+        "AddressID": "kfNnIidGwl",
+        "ValidityStartDate": "/Date(1404778779000)/",
+        "StandardUsage": true,
+        "AuthorizationGroup": "Au19"
+    },
+    {
+        "BusinessPartner": "UNkeaQqiAP",
+        "ValidityEndDate": "/Date(1066346790000)/",
+        "AddressUsage": "QDQZEtZxui",
+        "AddressID": "EVzNRugEUN",
+        "ValidityStartDate": "/Date(33672481000)/",
+        "StandardUsage": false,
+        "AuthorizationGroup": "Au20"
+    }
+]
